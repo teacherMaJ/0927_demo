@@ -8,7 +8,6 @@ sdf
 
 sadf 
 sad 
-<<<<<<< HEAD
 asdf
 sdf
 asdff
@@ -19,18 +18,6 @@ f
 asdff
 sadf
 sdfs
-=======
-asfd
-sadfsfsaf
-
-sdf
-sadf
-sdfsadfsdf
-sdf
-sadf
-sadf
-
->>>>>>> 8698f3457723657ec4961ba82b29215284da9e79
 
 
 
